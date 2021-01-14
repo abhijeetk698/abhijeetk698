@@ -20,7 +20,7 @@
 </p>
 
 - ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **How to reach me:** ️ 
-
+    
     -   <a href="https://www.linkedin.com/in/abhijeet-jha-04b037b2/">
         <img align="left" alt="Abhijeet's Linkdein profile" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
         </a>
@@ -28,11 +28,22 @@
         <img align="left" alt="Abhijeet's Github profile" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
         </a>
         <a href="https://www.facebook.com/profile.php?id=100001617058346">
-        <img align="left" alt="Abhijeet's Codechef profile" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+        <img align="left" alt="Abhijeet's facebook profile" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
         </a>
         <a href="https://twitter.com/_Abhijeet_Jha">
-        <img align="left" alt="Abhijeet's Codechef profile" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+        <img align="left" alt="Abhijeet's twitter profile" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
         </a>
+        
+        
+
+- ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Coding Profile:** 
+    -   <p> 
+        <img style="margin: 30px" src="https://run.kaist.ac.kr/badges/codeforces/abhijeet_kr.svg" alt="codeforces" width="100" height="30" />  
+        <img style="margin: 30px" src="https://run.kaist.ac.kr/badges/topcoder/abhijeet_kr.svg" alt="topcoder" width="100" height="30"  />  
+        <a href="https://www.codechef.com/users/abhijeet_kr">
+        <img align="left" alt="Abhijeet's codechef profile" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+        </a>
+        </p>
        
 ![Abhijeet Jha Github Stats](https://github-readme-stats.vercel.app/api?username=abhijeetk698&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<img align="left" alt="coderj001's Github Langauge Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetk698" />
 
