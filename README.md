@@ -36,7 +36,7 @@
         
         
 
-- ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Coding Profile:** 
+- ## 🔭 **Coding Profile:** 
     -   <p> 
         <img style="margin: 30px" src="https://run.kaist.ac.kr/badges/codeforces/abhijeet_kr.svg" alt="codeforces" width="100" height="30" />  
         <img style="margin: 30px" src="https://run.kaist.ac.kr/badges/topcoder/abhijeet_kr.svg" alt="topcoder" width="100" height="30"  />  
