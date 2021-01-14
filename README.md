@@ -19,4 +19,6 @@
         <img align="left" alt="Abhijeet's Codeforces profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
         </a>
        
-![Abhijeet Jha Github Stats](https://github-readme-stats.vercel.app/api?username=abhijeetk698&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Abhijeet Jha Github Stats](https://github-readme-stats.vercel.app/api?username=abhijeetk698&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<img align="left" alt="coderj001's Github Langauge Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetk698" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhijeetk698&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
