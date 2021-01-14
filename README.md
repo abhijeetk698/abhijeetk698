@@ -1,7 +1,9 @@
-# Hello!! its me Abhijeet
+# Hello There!! 
+
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning Javascript, ReactJS, NodeJS
 - 👯 I’m a competitive programmer active on codeforces, codechef and atcoder
+
 - 📫 How to reach me: 
 
     -   <a href="https://www.linkedin.com/in/abhijeet-jha-04b037b2/">
