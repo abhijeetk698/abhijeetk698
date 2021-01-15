@@ -1,10 +1,4 @@
-<img src="https://coverfiles.alphacoders.com/453/45316.jpg" height="250px">
-
-# Hello There!!
-
-- 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently learning Javascript, ReactJS, NodeJS
-- 👯 I’m a competitive programmer active on codeforces, codechef and atcoder
+<img src="https://imgur.com/TN1OFCD.jpg">
 
 ##  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  **Languages & Tools:** 
 
@@ -36,7 +30,7 @@
         <img align="left" alt="Abhijeet's twitter profile" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
         </a>
         
-        
+        <br>
 
 - ## 🔭 **Coding Profile:** 
     -   <p> 
