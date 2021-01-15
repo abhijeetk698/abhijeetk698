@@ -30,7 +30,7 @@
         <img align="left" alt="Abhijeet's twitter profile" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
         </a>
         
-        <br>
+-
 
 - ## 🔭 **Coding Profile:** 
     -   <p> 
